@@ -66,6 +66,7 @@ Contributing
 5. Open a Pull Request.
 
 Project Demos
+
 Employee Page Demo: ![Employee Page] (gifs/Employees.gif)
 
 License

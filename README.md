@@ -65,5 +65,8 @@ Contributing
 
 5. Open a Pull Request.
 
+Project Demos
+Employee Page Demo: ![Employee Page] (gifs/Employees.gif)
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
